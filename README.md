@@ -3,6 +3,12 @@
 ## Description
 A website that allows a user to input a first and last name and salary, and the information will be saved and logged in a list following alphabetical order.
 
+## URL
+https://playafly.github.io/employee-payroll-tracker/
+
+## Screenshot
+(image.png)
+
 ## License
 MIT License
 
